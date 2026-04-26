@@ -32,7 +32,7 @@ A community-driven, manually curated index of websites, apps, and services for A
 
 ## 📑 Table of Contents
 
-- [🎬 Anime](#-anime)
+- [🎬 Anime Streaming](#-anime-streaming)
 - [📚 Manga](#-manga)
 - [🇰🇷 Manhwa](#-manhwa)
 - [🇨🇳 Donghua](#-donghua)
