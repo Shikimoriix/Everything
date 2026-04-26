@@ -11,7 +11,6 @@
 ![GitHub issues](https://img.shields.io/github/issues/Shineii86/Everything)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/Shineii86/Everything)
 ![GitHub contributors](https://img.shields.io/github/contributors/Shineii86/Everything)
-
 ![Community](https://img.shields.io/badge/community-active-brightgreen)
 
 [![GitHub Stars](https://img.shields.io/github/stars/Shineii86/Everything?style=for-the-badge)](https://github.com/Shineii86/LeechBot/stargazers)
@@ -21,6 +20,7 @@
 
 A community-driven, manually curated index of websites, apps, and services for Anime, Manga, and the broader Otaku culture. The goal is to help English-speaking users find the best resources while keeping the list honest, up-to-date, and free of automated spam.
 
+> [!WARNING]
 > **Disclaimer:** We review and provide information about third-party sites. We are not affiliated with, nor do we control, any of the sites listed in this index.
 
 ## ✨ Features
@@ -63,6 +63,7 @@ For a site to be included it must:
 - Not be intentionally deceptive or malicious.
 - Be usable by an English-speaking audience.
 
+> [!NOTE]
 > We review sites regardless of whether the owner agrees. If you want a site removed, simply make it **no longer meet** these requirements.
 
 ## ⚠️ Disclaimer
