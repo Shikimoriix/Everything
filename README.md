@@ -68,14 +68,6 @@ A community-driven, manually curated index of websites, apps, and services for A
 
 </details>
 
-
-## 🧭 How It Works
-
-1. **Browse** the index in this repository.
-2. **Filter** by category to find what you need.
-3. **Read** the review of each entry to make an informed decision.
-4. **Contribute** if you spot something missing or outdated (see [CONTRIBUTING.md](CONTRIBUTING.md)).
-
 ## 🤝 Contributing
 
 This project lives and breathes thanks to its community. If you'd like to help keep the index accurate and up-to-date, please read [`CONTRIBUTING.md`](CONTRIBUTING.md) for:
@@ -104,16 +96,6 @@ For a site to be included it must:
 - Information comes from community feedback and manual testing; it may become outdated or contain errors.
 - We are not liable for any issues arising from the use of third-party sites.
 - Sites with intrusive ads are still listed – we strongly recommend using an ad-blocker.
-
-## 📄 License
-
-This project’s data and reviews are community-maintained. A formal license has not yet been chosen. All contributions are understood to become part of the public index.
-
----
-
-*Maintained by the community, for the community. The best help you can give is to share this resource with others!*
-
----
 
 ## 💕 Loved My Work?
 
