@@ -30,6 +30,13 @@ A community-driven, manually curated index of websites, apps, and services for A
 - **Honest, transparent ranking** – Rankings are based on library size, reliability, usability, and community feedback, not sponsorships.
 - **Open to contributions** – Anyone can suggest new sites, report issues, or submit improvements.
 
+## <details><summary>📌 Contents</summary>
+
+</details>
+
+
+
+
 ## 🧭 How It Works
 
 1. **Browse** the index in this repository.
@@ -97,7 +104,5 @@ This project’s data and reviews are community-maintained. A formal license has
   <sup><b>Copyright © 2026 <a href="https://telegram.me/Shineii86">Shinei Nouzen</a> All Rights Reserved</b></sup>
 
 ![Last Commit](https://img.shields.io/github/last-commit/Shineii86/Everything?style=for-the-badge)
-
-<sub>Pull Requests And Contributions Are Warmly Welcomed</sub>
 
 </div>
