@@ -30,11 +30,43 @@ A community-driven, manually curated index of websites, apps, and services for A
 - **Honest, transparent ranking** – Rankings are based on library size, reliability, usability, and community feedback, not sponsorships.
 - **Open to contributions** – Anyone can suggest new sites, report issues, or submit improvements.
 
-## <details><summary>📌 Contents</summary>
+## 📑 Table of Contents
+
+- [🎬 Anime](#-anime)
+- [📚 Manga](#-manga)
+- [🇰🇷 Manhwa](#-manhwa)
+- [🇨🇳 Donghua](#-donghua)
+- [📖 Novel](#-novel)
+
+<!---
+- [🎭 Asian Drama](#-asian-drama)
+- [🎮 Games](#-games)
+- [📱 Apps](#-apps)
+- [⬇️ Download](#-download)
+- [🎵 Music](#-music)
+- [📅 Release Schedule](#-release-schedule)
+- [🗃️ Database / Tracker](#-database--tracker)
+- [🌍 Western Streaming](#-western-streaming)
+- [🛠️ General Tools](#-general-tools)
+- [🧰 Misc Tools](#-misc-tools)
+- [❓ Quiz](#-quiz)
+- [📊 Rank / Trends](#-rank--trends)
+- [📘 Wiki / Guides](#-wiki--guides)
+- [🎨 Art / Imageboards](#-art--imageboards)
+- [🖥️ VTuber](#-vtuber)
+- [🎰 Gacha Games](#-gacha-games)
+- [👗 Cosplay](#-cosplay)
+- [🎞️ AMV](#-amv)
+- [💬 Forums / Community](#-forums--community)
+--->
+
+## 🎬 Anime Streaming
+
+- **[AnimeKai](https://animekai.to/home)** ㅤ<img src="https://img.shields.io/badge/status-up-brightgreen" height="15" alt="Up">
+- **[AnimePahe](https://animepahe.pw/)** ㅤ<img src="https://img.shields.io/badge/status-up-brightgreen" height="15" alt="Up">
+
 
 </details>
-
-
 
 
 ## 🧭 How It Works
