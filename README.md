@@ -33,10 +33,10 @@ A community-driven, manually curated index of websites, apps, and services for A
 ## 📑 Table of Contents
 
 - [🎬 Anime Streaming](#-anime-streaming)
-- [📚 Manga](#-manga)
-- [🇰🇷 Manhwa](#-manhwa)
-- [🇨🇳 Donghua](#-donghua)
-- [📖 Novel](#-novel)
+- [📚 Manga Reading](#-manga-reading)
+- [🇰🇷 Manhwa Reading](#-manhwa-reading)
+- [🇨🇳 Donghua Reading](#-donghua-streaming)
+- [📖 Novel Reading](#-novel-reading)
 
 <!---
 - [🎭 Asian Drama](#-asian-drama)
