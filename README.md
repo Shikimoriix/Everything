@@ -62,11 +62,85 @@ A community-driven, manually curated index of websites, apps, and services for A
 
 ## 🎬 Anime Streaming
 
-- **[AnimeKai](https://animekai.to/home)** ㅤ<img src="https://img.shields.io/badge/status-up-brightgreen" height="15" alt="Up">
-- **[AnimePahe](https://animepahe.pw/)** ㅤ<img src="https://img.shields.io/badge/status-up-brightgreen" height="15" alt="Up">
+- **[AnimeKai](https://animekai.to/home)**  <img src="https://img.shields.io/badge/status-up-brightgreen" height="15" alt="Up">
+- **[animepahe](https://animepahe.pw)**  <img src="https://img.shields.io/badge/status-up-brightgreen" height="15" alt="Up">
+- **[AllManga Anime](https://allmanga.to/anime)**  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[AniZone](https://anizone.to/)**  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[Animetsu](https://animetsu.live/)**  `MULT`  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[Miruro](https://www.miruro.to/)**  `MULT`  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[Anikoto](https://anikototv.to/home)**  `MULT`  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[Kuudere](https://kuudere.to/home)**  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[Anime Nexus](https://anime.nexus/)**  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[Crunchyroll](https://www.crunchyroll.com)**  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[AnimeStream](https://anime.uniquestream.net/)**  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[KickAssAnime](https://kaa.lt/)**  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[Bilibili](https://www.bilibili.tv/en/anime)**  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[YouTube](https://youtube.com/)**  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[Senshi](https://senshi.live/)**  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[AnimeOnsen](https://www.animeonsen.xyz/)**  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[AnimeX](https://animex.one/home)**  `MULT`  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[Anidap](https://anidap.se/home)**  `MULT`  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[Anikuro](https://anikuro.ru/)**  `MULT`  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[AniSnatch](https://anisnatch.top/home)**  `MULT`  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[Anibd.app](https://anibd.app/)**  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[AniHQ](https://anihq.org/home)**  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[AnimeParadise](https://www.animeparadise.moe/)**  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[ANIMEGG](https://www.animegg.org/)**  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[123anime](https://123animes.ru/home)**  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[AnimeDao](https://animedao.ac/)**  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[AnimeHeaven](https://animeheaven.me/)**  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[HIDIVE](https://www.hidive.com/)**  `LICENSED`  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[AnimeHub](https://animehub.ac/)**  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[Lunar Animes](https://lunaranime.ru/)**  `MULT`  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[Anime Realms](https://www.animerealms.org/)**  `MULT`  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[Anify](https://anify.to/)**  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[AniWorld](https://aniworld.to/)**  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[FireAnime](https://fireani.me/)**  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[Anime-Loads](https://www.anime-loads.org/)**  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[Animotvslash](https://www.animotvslash.org/)**  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[WCO](https://www.wcostream.tv/)**  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[Kisskh](https://kisskh.co/Explore?type=3&sub=1&country=3)**  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[Otaku-Streamers](https://beta.otaku-streamers.com/)**  `LOGIN`  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[Kawaiifu](https://kawaiifu.com/)**  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[AnimeNoSub](https://animenosub.to/)**  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[KimoiTV](https://kimoitv.com/list/Anime.html)**  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[Animeya](https://www.animeya.cc/home)**  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[AnimeKizz](https://animekizz.live/)**  `MULT`  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[JustAnime](https://www.justanime.to/)**  `MULT`  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[1Anime](https://1anime.app)**  `MULT`  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[Fanime](https://fanime.tv/)**  `MULT`  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[Animelok](https://animelok.xyz/)**  `MULT`  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[Animeyubi](https://animeyubi.com/)**  `MULT`  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[Anikage](https://anikage.cc/home)**  `MULT`  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[Rive Anime](https://rivestream.org/anime)**  `MULT`  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[AniVibe](https://anivibe.to/)**  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[Animelon](https://animelon.com/)**  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[Animegers](https://animegers.com/)**  `HIA`  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[Kawaii Anime](https://kawaii-anime.com/)**  `MULT`  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[aniwavecomse](https://aniwave.com.se/)**  `HIA`  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[Netflix](https://www.netflix.com/browse/genre/7424)**  `LICENSED`  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[OceanVeil](https://oceanveil.net/)**  `LICENSED`  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[StreamX](https://streamex.sh/anime)**  `MULT`  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[Anitaro](https://anitaro.top/home)**  `MULT`  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[Anistream](https://anistream.one/)**  `MULT`  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[AniverseHD](https://aniversehd.com/)**  `MULT`  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[Hulu](https://www.hulu.com/hub/anime)**  `LICENSED`  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[VoxAni](https://www.voxani.live/)**  `HIA`  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[Zanora](https://zanora.lol/home)**  `HIA`  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[9animeorglv](https://9anime.org.lv/)**  `HIA`  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[Animovitch](https://animovitch.com/home)**  `HIA`  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[Enma](https://www.enma.lol/)**  `HIA`  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[gogoanime.by](https://gogoanime.by/)**  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[Anime-Dunya](https://anime-dunya.com/)**  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[AnimeEpisodeSeries](https://animeepisodeseries.com/)**  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[Kayoanimetv](https://animixplay.fun/)**  `HIA`  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[AnimeWorld](https://watchanimeworld.net/)**  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[AnimeDekho](https://animedekho.app/home/)**  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[Animeland.tv](https://animeland.tv/)**  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
 
+---
+<br>
 
-</details>
 
 ## 🤝 Contributing
 
